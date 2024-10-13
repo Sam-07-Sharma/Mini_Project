@@ -212,3 +212,8 @@ footer {
     background: #333;
     color: white;
 }
+@media (max-width: 768px) {
+    .social-links {
+        flex-direction: column;
+    }
+}
